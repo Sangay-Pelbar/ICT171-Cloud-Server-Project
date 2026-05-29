@@ -7,6 +7,10 @@
 **Student Number:** 35588619
 
 ---
+## Video Explainer
+
+The video explainer for this project is available at:
+https://youtu.be/ZkFZvbPmE50
 
 ## Project Overview
 
